@@ -1,0 +1,36 @@
+Alex Ramanau ran 87 lines of Python 3:
+
+Testcase #1: Success (0.00s)
+Testcase #2: Success (0.00s)
+Testcase #3: Success (0.00s)
+Testcase #4: Success (0.00s)
+Testcase #5: Success (0.00s)
+Testcase #6: Success (0.00s)
+Testcase #7: Success (0.00s)
+Testcase #8: Success (0.00s)
+Testcase #9: Success (0.01s)
+Testcase #10: Success (0.04s)
+Testcase #11: Success (0.07s)
+Testcase #12: Success (0.47s)
+Memory usage on last testcase: 374.1 MB
+Your score: ADVANCED (<300 MB memory to get expert)
+
+
+
+Alex Ramanau ran 93 lines of Python 3 (finished in 11.08s):
+
+Testcase #1: Success (0.00s)
+Testcase #2: Success (0.00s)
+Testcase #3: Success (0.00s)
+Testcase #4: Success (0.00s)
+Testcase #5: Success (0.00s)
+Testcase #6: Success (0.01s)
+Testcase #7: Success (0.01s)
+Testcase #8: Success (0.01s)
+Testcase #9: Success (0.03s)
+Testcase #10: Success (0.16s)
+Testcase #11: Success (0.36s)
+Testcase #12: Success (1.20s)
+Memory usage on last testcase: 291.4 MB
+Your score: LEGEND. Congratulations!
+
